@@ -1,0 +1,14 @@
+/Users/ashikelahi/CSharpConsoleApp/bin/Debug/net8.0/CSharpConsoleApp
+/Users/ashikelahi/CSharpConsoleApp/bin/Debug/net8.0/CSharpConsoleApp.deps.json
+/Users/ashikelahi/CSharpConsoleApp/bin/Debug/net8.0/CSharpConsoleApp.runtimeconfig.json
+/Users/ashikelahi/CSharpConsoleApp/bin/Debug/net8.0/CSharpConsoleApp.dll
+/Users/ashikelahi/CSharpConsoleApp/bin/Debug/net8.0/CSharpConsoleApp.pdb
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/CSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/CSharpConsoleApp.AssemblyInfoInputs.cache
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/CSharpConsoleApp.AssemblyInfo.cs
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/CSharpConsoleApp.csproj.CoreCompileInputs.cache
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/CSharpConsoleApp.dll
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/refint/CSharpConsoleApp.dll
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/CSharpConsoleApp.pdb
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/CSharpConsoleApp.genruntimeconfig.cache
+/Users/ashikelahi/CSharpConsoleApp/obj/Debug/net8.0/ref/CSharpConsoleApp.dll
